@@ -23,8 +23,8 @@ These workbooks illustrate our proficiency in navigating different business doma
 The datasets utilized in these projects were sourced from **Datacamp**, an education technology platform. These datasets are not proiprietary or reveal the personal information of any individual or entity, and have been selected to provide a wide range of business types and data challenges one can face in those respective domains.
 
 
-#### Datasets
+#### Business Intelligence Examples
 
-1. E-Commerce Data Analysis
-2. Credit Card Fraud Analysis
-3. Hotel Booking Demand Analysis
+1. [E-Commerce Data Example](https://github.com/aloukrezis01/business-intelligence-examples/blob/main/E-Commerce%20Example.ipynb)
+2. [Credit Card Fraud Example](https://github.com/aloukrezis01/business-intelligence-examples/blob/main/Credit%20Card%20Fraud%20Example.ipynb)
+3. [Hotel Booking Demand Example](https://github.com/aloukrezis01/business-intelligence-examples/blob/main/Hotel%20Booking%20Example.ipynb)
