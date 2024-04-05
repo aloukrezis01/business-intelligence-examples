@@ -28,3 +28,4 @@ The datasets utilized in these projects were sourced from **Datacamp**, an educa
 1. [E-Commerce Data Example](https://github.com/aloukrezis01/business-intelligence-examples/blob/main/E-Commerce%20Example.ipynb)
 2. [Credit Card Fraud Example](https://github.com/aloukrezis01/business-intelligence-examples/blob/main/Credit%20Card%20Fraud%20Example.ipynb)
 3. [Hotel Booking Demand Example](https://github.com/aloukrezis01/business-intelligence-examples/blob/main/Hotel%20Booking%20Example.ipynb)
+4. Loan Default Example
