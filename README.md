@@ -29,3 +29,10 @@ The datasets utilized in these projects were sourced from **Datacamp**, an educa
 2. [Credit Card Fraud Example](https://github.com/aloukrezis01/business-intelligence-examples/blob/main/Credit%20Card%20Fraud%20Example.ipynb)
 3. [Hotel Booking Demand Example](https://github.com/aloukrezis01/business-intelligence-examples/blob/main/Hotel%20Booking%20Example.ipynb)
 4. [Loan Default Example](https://github.com/aloukrezis01/business-intelligence-examples/blob/main/Loan%20Default%20Example.ipynb)
+
+
+#### Business Intelligence Examples - Tableau
+1. [E-Commerce Data Example - Tableau Dashboard](https://public.tableau.com/app/profile/aloukrezis01/viz/E-CommerceExample_17129503147800/Sheet1)
+2. [Credit Card Fraud Example - Tableau Dashboard](https://public.tableau.com/app/profile/aloukrezis01/viz/CreditCardFraudExample/Sheet1)
+3. [Hotel Booking Demand Example - Tableau Dashboard](https://public.tableau.com/app/profile/aloukrezis01/viz/HotelBookingDemandExample/Sheet1)
+4. [Loan Default Example - Tableau Dashboard](https://public.tableau.com/app/profile/aloukrezis01/viz/LoanDefaultExample/Sheet1)
